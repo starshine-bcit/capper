@@ -10,8 +10,8 @@ bin           = @["capper"]
 
 # Dependencies
 
-requires "nim >= 2.0.2"
-
-
 # requires "nake >= 1.9.4"
-# requires ""
+requires "nim >= 2.0.2"
+requires "morelogging >= 0.2.0"
+requires "pixie >= 5.0.6"
+requires "yaml >= 2.1.1"
